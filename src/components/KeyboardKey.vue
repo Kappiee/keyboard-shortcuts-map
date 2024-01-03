@@ -1,5 +1,5 @@
 <template>
-    <div class="key">
+    <div class="key" style="width: {keyWidth};">
         {{keyName}}
     </div>
 </template>
@@ -11,7 +11,7 @@ export default {
 <script setup lang="ts">
 defineProps({
     keyName: String,
-    keyOrigin: String,
+    keyWidth: Number,
 })
 </script>
 

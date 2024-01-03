@@ -1,0 +1,33 @@
+[{"label": "Esc", "width": 60},
+    {"label": "F1", "width": 60}, {"label": "F2", "width": 60}, {"label": "F3", "width": 60}, 
+    {"label": "F4", "width": 60}, {"label": "F5", "width": 60}, {"label": "F6", "width": 60}, 
+    {"label": "F7", "width": 60}, {"label": "F8", "width": 60}, {"label": "F9", "width": 60}, 
+    {"label": "F10", "width": 60}, {"label": "F11", "width": 60}, {"label": "F12", "width": 60},
+    {"label": "PrtSc", "width": 60}, {"label": "Scroll Lock", "width": 60}, {"label": "Pause", "width": 60},
+
+    {"label": "`", "width": 60}, {"label": "1", "width": 60}, {"label": "2", "width": 60},
+    {"label": "3", "width": 60}, {"label": "4", "width": 60}, {"label": "5", "width": 60},
+    {"label": "6", "width": 60}, {"label": "7", "width": 60}, {"label": "8", "width": 60},
+    {"label": "9", "width": 60}, {"label": "0", "width": 60}, {"label": "-", "width": 60},
+    {"label": "=", "width": 60}, {"label": "Backspace", "width": 120},
+
+    {"label": "Tab", "width": 90}, {"label": "Q", "width": 60}, {"label": "W", "width": 60},
+    {"label": "E", "width": 60}, {"label": "R", "width": 60}, {"label": "T", "width": 60},
+    {"label": "Y", "width": 60}, {"label": "U", "width": 60}, {"label": "I", "width": 60},
+    {"label": "O", "width": 60}, {"label": "P", "width": 60}, {"label": "[", "width": 60},
+    {"label": "]", "width": 60}, {"label": "\\", "width": 90},
+
+    {"label": "Caps Lock", "width": 100}, {"label": "A", "width": 60}, {"label": "S", "width": 60},
+    {"label": "D", "width": 60}, {"label": "F", "width": 60}, {"label": "G", "width": 60},
+    {"label": "H", "width": 60}, {"label": "J", "width": 60}, {"label": "K", "width": 60},
+    {"label": "L", "width": 60}, {"label": ";", "width": 60}, {"label": "'", "width": 60},
+    {"label": "Enter", "width": 120},
+
+    {"label": "Shift", "width": 120}, {"label": "Z", "width": 60}, {"label": "X", "width": 60},
+    {"label": "C", "width": 60}, {"label": "V", "width": 60}, {"label": "B", "width": 60},
+    {"label": "N", "width": 60}, {"label": "M", "width": 60}, {"label": ",", "width": 60},
+    {"label": ".", "width": 60}, {"label": "/", "width": 60}, {"label": "Shift", "width": 120},
+
+    {"label": "Ctrl", "width": 90}, {"label": "Win", "width": 90}, {"label": "Alt", "width": 90},
+    {"label": "Space", "width": 240}, {"label": "Alt", "width": 90}, {"label": "Win", "width": 90},
+    {"label": "Menu", "width": 90}, {"label": "Ctrl", "width": 90 }]

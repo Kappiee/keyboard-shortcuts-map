@@ -1,5 +1,5 @@
 <template>
-    <KeyWorld key-name="A" />
+    <KeyWorld key-name="A" key-width=60 />
 </template>
 
 <script setup lang="ts">

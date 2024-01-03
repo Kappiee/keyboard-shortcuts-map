@@ -1,5 +1,26 @@
-{
-    "keyboard":{
-
-    }
-}
+[{
+    "preferences":"durgod-windows",
+    "application":[{
+        "name":"vscode",
+        "icon":"vscode.png",
+        "shortcuts":[{
+            "shortcutKey":"ctrl+shift+e",
+            "purpose":"open explorer"
+        },{
+            "shortcutKey":"ctrl+shift+f",
+            "purpose":"open search"
+        }]
+    },
+    {
+        "name":"rider",
+        "icon":"rider.png",
+        "shortcuts":[{
+            "shortcutKey":"ctrl+shift+e",
+            "purpose":"open explorer"
+        },{
+            "shortcutKey":"shift+shift",
+            "purpose":"open search"
+        }]
+    }]
+    
+}]
